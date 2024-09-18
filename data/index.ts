@@ -107,33 +107,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Yoseph was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Yoseph's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Yoseph is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Yoseph was a fantastic experience. His creativity, attention to detail, and passion for excellence are unmatched. Yoseph consistently exceeded expectations, ensuring that every aspect of our project was a success. If you're looking for someone to bring your vision to life with flair and precision, Yoseph is the person to trust.",
+    name: "James Carter",
+    title: "Vice President of QuantumWave Systems"
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Yoseph's expertise and strategic thinking were instrumental in transforming our business approach. His ability to understand complex challenges and provide clear, actionable solutions was a game changer. I highly recommend Yoseph to anyone seeking impactful leadership and innovation.",
+    name: "Emily Rogers",
+    title: "Head of Operations at NexusGrid Innovations"
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Yoseph was an absolute pleasure. His ability to innovate and deliver high-quality solutions under tight deadlines was impressive. Yoseph’s attention to detail and problem-solving skills were key to the success of our project. I would highly recommend Yoseph for any ambitious tech endeavor.",
+    name: "Sophia Miller",
+    title: "COO of ApexCore Solutions"
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Yoseph's commitment to excellence and his deep understanding of technology made our collaboration seamless and successful. His proactive approach and problem-solving mindset ensured that every project milestone was met with precision. If you need a reliable and talented expert, Yoseph is the one.",
+    name: "David Martinez",
+    title: "CTO of VertexPulse Technologies"
   },
 ];
 
